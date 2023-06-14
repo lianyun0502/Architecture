@@ -1,0 +1,1 @@
+- `Ce`指的是[[傳入性耦合(efferent coupling)]]，而`Ca`則[[是傳出性耦合(afferent coupling)]]。不穩定度越接近0，代表整個模組越穩定，反之則是越容易被修改影響。
